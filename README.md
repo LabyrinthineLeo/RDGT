@@ -4,8 +4,9 @@
 
 ***
 
-The code in this repository is the implementation of the proposed RDGT model accepted by IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING (TKDE-24), and the used datasets are the public benchmarks including ASSISTment12, NIPS-Edu, SLP-math and SLP-biology, SLP-physics, which can refer to the detailed description in the EXPERIMENTS section.
+:clipboard: The code in this repository is the implementation of the proposed RDGT model accepted by IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING (TKDE-24), and the used datasets are the public benchmarks including ASSISTment12, NIPS-Edu, SLP-math and SLP-biology, SLP-physics, which can refer to the detailed description in the EXPERIMENTS section.
 
+:rocket: Paper: [RDGT-PAPER-PDF](https://ieeexplore.ieee.org/abstract/document/10388466)
 
 #### Introduction
 Cognitive diagnosis has been widely recognized as a crucial task in the field of computational education, which is capable of learning the knowledge profiles of students and predicting their future exercise performance. Indeed, considerable research efforts have been made in this direction over the past decades. 
